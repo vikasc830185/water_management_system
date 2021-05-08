@@ -1,0 +1,86 @@
+INTRODUCTION:
+This site provides information about water management-related 
+studies and projects that the city is working on. Anything from measured 
+bacteria and contaminant levels in rivers and streams, water supply, and 
+waste water egress to new water management projects and their status, to 
+water management analysis and reports. The site also provides safe 
+water use instructions, what to look for, what to avoid, and so on.
+Support resident and visitor feedback for a variety of items such as water 
+supply pressure issues, water quality concerns, water pollution incidents, 
+or submit a suggestion for improvement.
+The site also provides real-time information about flooding, water 
+supply handling water-related work projects, water supply repair, waste 
+water treatment methods.
+
+
+
+Existing System:
+· This System contains no updated information about water management 
+in the city.Water management system
+· This Means Don’t know about the particular water supply timings in the 
+city.
+· Citizens Don’t Know about Current working project in the city.
+· Citizens don’t know about water Quality Reports information.
+· Citizens Don’t know about Anything from measured bacteria and 
+contaminant levels in rivers and streams
+· Citizens Don’t know about safe water use instructions
+· Citizens don’t have proper communication to send complaints, Queries,
+Feedbacks.
+· Citizens don’t have water supply pressure issues, water quality concerns, 
+water pollution incidents
+
+
+
+proposed System:
+The development of this new system contains the following activities, 
+which try to automate the entire process keeping in the view of database 
+integration approach.
+· The application provides information for water management in the city.
+· The application also provide real-time information about flooding, water 
+supply handling (boil-water alert),
+· The application provides information water-related work projects (water 
+supply repair, waste water treatment, etc.)
+· The application provides also provide information about water 
+management-related studies and/or projects that the city is working on.
+· The application provides Anything from measured bacteria and 
+contaminant levels in rivers and streams, water supply, and waste water 
+egress to new water management projects and their status, to water 
+management analysis and reports
+· The application site could also provide safe water use instructions, what 
+to look for, what to avoid, and so on.
+· This system maintains user’s personal, address, and contact details.Water management system
+· Authentication is provided for this application only registered users can 
+access.
+· Various user feedbacks are accepted to develop the system and also to 
+know the real time issues of the water management problems.
+
+
+This site provides information about water management-related 
+studies and projects that the city is working on. Anything from measured 
+bacteria and contaminant levels in rivers and streams, water supply, and 
+waste water egress to new water management projects and their status, to 
+water management analysis and reports. The site also provides safe 
+water use instructions, what to look for, what to avoid, and so on.
+Support resident and visitor feedback for a variety of items such as water 
+supply pressure issues, water quality concerns, water pollution incidents, 
+or submit a suggestion for improvement.
+The site also provides real-time information about flooding, water 
+supply handling water-related work projects, water supply repair, waste 
+water treatment methods.
+The Water Management System is a computer system designed to support 
+the water resource management function. used to manage resource quality 
+operational monitoring on a National basis in an effective and efficient 
+manner, used to achieve the sustainable use of water and the protection of
+the quality of the water resource. Maintain a national water and 
+environmental quality database Manage national and regional operational 
+monitoring Effluent discharge impacts Compliance to license conditions
+
+Software Resources:
+Operating system: Microsoft Windows10
+Frontend: JavaScript
+Backend: MySQL
+HARDWARE RESOURCES:
+TOOLS:
+Netbeans IDE8.2
+Wampserver 3.1.064 bit
+
